@@ -4,6 +4,8 @@
 
 ## This project was created with React and used a lot of Redux, which made the way the components interact with each other very interesting.
 
+https://funnyrobotsfriend.netlify.app/
+
 ## Available Scripts
 
 ### Clone this repo
